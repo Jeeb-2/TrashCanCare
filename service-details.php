@@ -41,12 +41,12 @@
                                     <h3>Ask Question</h3>
                                 </div>
                                 <div class="form-inner">
-                                    <form action="" method="POST" id="contact_form">
+                                    <form method="POST" id="contact_form" action="">
                                         <div class="form-group">
                                             <input type="text" name="name" placeholder="Your name" required>
                                         </div>
                                         <div class="form-group">
-                                            <input type="email" name="email" placeholder="e-mail address" required>
+                                            <input type="email" name="email" placeholder="E-mail address" required>
                                         </div>
                                         <div class="form-group">
                                             <input type="text" name="phone" placeholder="Phone" required>
@@ -65,8 +65,8 @@
                                     <div class="icon-box"><i class="icon-39"></i></div>
                                     <h3>Do You Need <br />Any Help?</h3>
                                     <div class="lower-box">
-                                        <p><a href="mailto:example@info.com">example@info.com</a></p>
-                                        <h2><a href="tel:913336660021">(+91) 333 666 0021</a></h2>
+                                        <p><a href="mailto:contact@trashcancare.com">contact@trashcancare.com</a></p>
+                                        <h2><a href="tel:6088884495">608 888 4495</a></h2>
                                     </div>
                                 </div>
                             </div>

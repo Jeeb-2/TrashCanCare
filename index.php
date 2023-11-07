@@ -151,7 +151,7 @@
                                 <div class="inner-box">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-6.png);">
                                     </div>
-                                    <div class="icon-box"><i class="icon-8"></i></div>
+                                    <div class="icon-box"><i class="icon-14"></i></div>
                                     <h3><a href="#pricing">Trash Can Cleaning</a></h3>
                                 </div>
                             </div>
@@ -173,7 +173,7 @@
                                 <div class="inner-box">
                                     <div class="shape" style="background-image: url(assets/images/shape/shape-6.png);">
                                     </div>
-                                    <div class="icon-box"><i class="icon-10"></i></div>
+                                    <div class="icon-box"><i class="icon-8"></i></div>
                                     <h3><a href="#pricing">Trash Can Combo</a></h3>
                                 </div>
                             </div>
@@ -726,8 +726,8 @@
                         <div class="inner-box">
                             <figure class="image-box"><img src="assets/images/project/project-1.jpg" alt=""></figure>
                             <div class="content-box">
-                                <div class="view-btn"><a href="assets/images/project/project-1.jpg"
-                                        class="lightbox-image" data-fancybox="gallery"><i class="icon-23"></i></a></div>
+                                <!-- <div class="view-btn"><a href="assets/images/project/project-1.jpg"
+                                        class="lightbox-image" data-fancybox="gallery"><i class="icon-23"></i></a></div> -->
                                 <div class="text-box">
                                     <p>Waste Pickup</p>
                                     <h3><a href="project-details.php">Garbage pickup</a></h3>
@@ -739,8 +739,8 @@
                         <div class="inner-box">
                             <figure class="image-box"><img src="assets/images/project/project-2.jpg" alt=""></figure>
                             <div class="content-box">
-                                <div class="view-btn"><a href="assets/images/project/project-2.jpg"
-                                        class="lightbox-image" data-fancybox="gallery"><i class="icon-23"></i></a></div>
+                                <!-- <div class="view-btn"><a href="assets/images/project/project-2.jpg"
+                                        class="lightbox-image" data-fancybox="gallery"><i class="icon-23"></i></a></div> -->
                                 <div class="text-box">
                                     <p>Waste Pickup</p>
                                     <h3><a href="project-details.php">Grocery waste removal</a></h3>
@@ -752,8 +752,8 @@
                         <div class="inner-box">
                             <figure class="image-box"><img src="assets/images/project/project-3.jpg" alt=""></figure>
                             <div class="content-box">
-                                <div class="view-btn"><a href="assets/images/project/project-3.jpg"
-                                        class="lightbox-image" data-fancybox="gallery"><i class="icon-23"></i></a></div>
+                                <!-- <div class="view-btn"><a href="assets/images/project/project-3.jpg"
+                                        class="lightbox-image" data-fancybox="gallery"><i class="icon-23"></i></a></div> -->
                                 <div class="text-box">
                                     <p>Waste Pickup</p>
                                     <h3><a href="project-details.php">Waste collection</a></h3>
