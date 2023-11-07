@@ -206,7 +206,7 @@
                                     <li>Seafood Import Export</li>
                                 </ul>
                                 <div class="btn-box">
-                                    <a href="contact.php" class="theme-btn btn-one shadow"><span>Contact Us</span></a>
+                                    <a href="#contact" class="theme-btn btn-one shadow"><span>Contact Us</span></a>
                                 </div>
                             </div>
                         </div>
@@ -631,7 +631,7 @@
                                     </div>
                                 </div>
                                 <div class="btn-box">
-                                    <a href="contact.php" class="theme-btn btn-one shadow"><span>Contact Us</span></a>
+                                    <a href="#contact" class="theme-btn btn-one shadow"><span>Contact Us</span></a>
                                 </div>
                             </div>
                         </div>

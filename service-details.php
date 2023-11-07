@@ -41,7 +41,7 @@
                                     <h3>Ask Question</h3>
                                 </div>
                                 <div class="form-inner">
-                                    <form method="post" action="">
+                                    <form action="" method="POST" id="contact_form">
                                         <div class="form-group">
                                             <input type="text" name="name" placeholder="Your name" required>
                                         </div>
