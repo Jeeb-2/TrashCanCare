@@ -249,7 +249,7 @@
                                     <div class="icon-box">
                                         <div class="icon-bg"
                                             style="background-image: url(assets/images/icons/icon-bg-1.png);"></div>
-                                        <div class="icon"><i class="icon-12"></i></div>
+                                        <div class="icon"><i class="icon-14"></i></div>
                                     </div>
                                     <h3><a href="service-details.php">Trash Can Cleaning</a></h3>
                                     <p>Lorem ipsum dolor sit amet consectur Dolor nunc tincidun tempor dignisime
@@ -271,7 +271,7 @@
                                     <div class="icon-box">
                                         <div class="icon-bg"
                                             style="background-image: url(assets/images/icons/icon-bg-1.png);"></div>
-                                        <div class="icon"><i class="icon-13"></i></div>
+                                        <div class="icon"><i class="icon-9"></i></div>
                                     </div>
                                     <h3><a href="service-details-2.php">Trash Can Emptying</a></h3>
                                     <p>Lorem ipsum dolor sit amet consectur Dolor nunc tincidun tempor dignisime
@@ -293,7 +293,7 @@
                                     <div class="icon-box">
                                         <div class="icon-bg"
                                             style="background-image: url(assets/images/icons/icon-bg-1.png);"></div>
-                                        <div class="icon"><i class="icon-14"></i></div>
+                                        <div class="icon"><i class="icon-8"></i></div>
                                     </div>
                                     <h3><a href="service-details-3.php">Trash Can Management</a></h3>
                                     <p>Lorem ipsum dolor sit amet consectur Dolor nunc tincidun tempor dignisime
